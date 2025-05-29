@@ -1,4 +1,4 @@
-# jfrog
+
 
 # Guia de Demonstração JFrog Platform - Principais Funcionalidades
 
